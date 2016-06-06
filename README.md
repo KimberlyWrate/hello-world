@@ -1,2 +1,3 @@
 # hello-world
-A practice repository for learning how to use GitHub.
+
+Hi everyone! My name is Kim. I like to dance on rainbows and spin around aimlessly. We should be friends. :)
